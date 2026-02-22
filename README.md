@@ -41,7 +41,7 @@
 3. Chạy file và cấp quyền nếu Windows yêu cầu.
 
 > ⚠️ **LƯU Ý QUAN TRỌNG VỀ WINDOWS DEFENDER:**
-> Vì đây là công cụ do cá nhân phát triển phi lợi nhuận (không có chữ ký số doanh nghiệp) và có sử dụng công nghệ can thiệp màn hình (Overlay), Windows Defender có thể nhận diện nhầm là phần mềm lạ (False Positive). 
+> Vì đây là công cụ do cá nhân phát triển (không có chữ ký số doanh nghiệp) và có sử dụng công nghệ can thiệp màn hình (Overlay), Windows Defender có thể nhận diện nhầm là phần mềm lạ (False Positive). 
 > **Cách khắc phục:** Bạn hãy chọn *More Info -> Run Anyway*, hoặc thêm thư mục chứa Azuu Translator vào danh sách loại trừ (Exclusions) của diệt virus nhé! 100% an toàn.
 
 ---
