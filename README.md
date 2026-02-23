@@ -24,8 +24,6 @@
 
 **Azuu Translator** là một tiện ích hỗ trợ dịch ngôn ngữ trực tiếp trên màn hình, được thiết kế đặc biệt dành cho game thủ và những người yêu thích Game/Visual Novel chưa hỗ trợ tiếng Việt. 
 
-> 💡 Ứng dụng này được xây dựng **100% bằng AI** và Azuu là người "chỉ đạo". Nó là minh chứng cho việc AI có thể giúp bất kỳ ai biến ý tưởng phức tạp thành hiện thực. Do vấn đề bảo mật và chống dịch ngược (ứng dụng đã được biên dịch C nguyên khối qua Cython), Source Code xin phép được giữ đóng (Closed Source). Các bạn có thể tải bản `.exe` để trải nghiệm trực tiếp!
-
 ## ✨ Tính năng nổi bật
 
 * 🎯 **Hai chế độ hoạt động linh hoạt:**
@@ -66,8 +64,6 @@
 ## 📖 Introduction
 
 **Azuu Translator** is an on-screen real-time translation utility specifically designed for gamers and Visual Novel enthusiasts who play games lacking their native language support.
-
-> 💡 This application was built **100% using AI**, with Azuu acting as the "director". It proves that AI can help anyone turn complex ideas into reality. Due to security and anti-decompilation reasons (the app is compiled into a monolithic C executable via Cython), the Source Code is Closed Source. You can download the `.exe` file to experience it directly!
 
 ## ✨ Key Features
 
