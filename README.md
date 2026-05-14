@@ -9,7 +9,6 @@
 
   <img src="https://img.shields.io/badge/OS-Windows_10%20%7C_11-blue?style=for-the-badge&logo=windows" alt="Windows"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/AI_Generated-100%25-orange?style=for-the-badge" alt="AI Generated"/>
 
   <br><br>
   <h3> <a href="#-tiếng-việt">VN Tiếng Việt</a> | <a href="#-english">EN English</a> </h3>
